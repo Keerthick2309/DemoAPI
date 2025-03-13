@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\MyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\extensions\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:extensions\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A8F255-ADCC-4901-9589-BEA80D207D80}|..\\Repository\\Repository.csproj|d:\\new folder\\repository\\repository\\authenticationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A8F255-ADCC-4901-9589-BEA80D207D80}|..\\Repository\\Repository.csproj|d:\\new folder\\repository\\services\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\extensions\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:extensions\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424ADBC6-DC64-4CEA-B99D-4FC3C8D2F649}|..\\Domain\\Domain.csproj|d:\\new folder\\domain\\model\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424ADBC6-DC64-4CEA-B99D-4FC3C8D2F649}|..\\Domain\\Domain.csproj|d:\\new folder\\domain\\interface\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|d:\\new folder\\mydemo\\dal\\authenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E484FEA-F1D8-4E9B-BB8D-3A85CFFBB970}|MyDemo.csproj|solutionrelative:dal\\authenticationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\New folder\\MyDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T10:34:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "D:\\New folder\\Domain\\Interface\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interface\\IAuthentication.cs",
+              "ToolTip": "D:\\New folder\\Domain\\Interface\\IAuthentication.cs",
+              "RelativeToolTip": "..\\Domain\\Interface\\IAuthentication.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:42:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationDAL.cs",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\DAL\\AuthenticationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\AuthenticationDAL.cs",
+              "ToolTip": "D:\\New folder\\MyDemo\\DAL\\AuthenticationDAL.cs",
+              "RelativeToolTip": "DAL\\AuthenticationDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:42:20.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\New folder\\Domain\\Model\\Authentication.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Model\\Authentication.cs",
+              "ToolTip": "D:\\New folder\\Domain\\Model\\Authentication.cs",
+              "RelativeToolTip": "..\\Domain\\Model\\Authentication.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:41:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\New folder\\MyDemo\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:40:37.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\New folder\\MyDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:34:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTToken.cs",
+              "DocumentMoniker": "D:\\New folder\\Repository\\Services\\JWTToken.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Services\\JWTToken.cs",
+              "ToolTip": "D:\\New folder\\Repository\\Services\\JWTToken.cs",
+              "RelativeToolTip": "..\\Repository\\Services\\JWTToken.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:34:29.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\New folder\\MyDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T10:43:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\Extensions\\Middleware.cs",
+              "RelativeDocumentMoniker": "Extensions\\Middleware.cs",
+              "ToolTip": "D:\\New folder\\MyDemo\\Extensions\\Middleware.cs",
+              "RelativeToolTip": "Extensions\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:34:26.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationRepo.cs",
+              "DocumentMoniker": "D:\\New folder\\Repository\\Repository\\AuthenticationRepo.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\Repository\\AuthenticationRepo.cs",
+              "ToolTip": "D:\\New folder\\Repository\\Repository\\AuthenticationRepo.cs",
+              "RelativeToolTip": "..\\Repository\\Repository\\AuthenticationRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:42:37.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\New folder\\MyDemo\\Extensions\\Services.cs",
+              "RelativeDocumentMoniker": "Extensions\\Services.cs",
+              "ToolTip": "D:\\New folder\\MyDemo\\Extensions\\Services.cs",
+              "RelativeToolTip": "Extensions\\Services.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:33:51.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
